@@ -2,7 +2,7 @@
 
 ## Performing Data Modeling, Data Engineering and Data Analysis using SQL and Pandas
 
-1. Create a new db in ```pgAdmin called``` "employee"
+1. Create a new db in ```pgAdmin``` called "employee"
 
 1. Create a table schema for each of the six CSV files in the *Data* folder. You can use [This link](http://www.quickdatabasediagrams.com) to scetch out an ERD of the tables. 
 
