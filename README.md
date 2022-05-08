@@ -1,25 +1,33 @@
 # Data-modeling-engineering-analysis-SQL
-Here I am performing Data Modeling, Data Engineering and Data Analysis using SQL
 
-I am listing employee number, last name, first name, sex, and salary for each employee
+## Performing Data Modeling, Data Engineering and Data Analysis using SQL and Pandas
 
+1. Create a new db in ```pgAdmin called``` "employee"
 
-I am listing first name, last name, and hire date for employees who were hired in 1986.
+1. Create a table schema for each of the six CSV files in the *Data* folder. You can use [This link](http://www.quickdatabasediagrams.com) to scetch out an ERD of the tables. 
 
+1. Import each CSV file into the corresponding SQL table. 
 
-I am listing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+1. To do data analysis import ```create_engine``` from ```sqlalchemy```.
 
+1. Create engine and connection. 
 
-I am listing the department of each employee with the following information: employee number, last name, first name, and department name.
+1. Start doing analysis
 
+The jupyter notebook shows:
 
-I am listing first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+1. A df showing employee number, last name, first name, sex, and salary for each employee
 
+1. A df showing first name, last name, and hire date for employees who were hired in 1986.
 
-I am listing all employees in the Sales department, including their employee number, last name, first name, and department name.
+1. A df showing the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
+1. A df showingthe department of each employee with the following information: employee number, last name, first name, and department name.
 
-I am listing all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+1. A df showing first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
+1. A df showing all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-I am listing the frequency count of employee last names, in descending order. ( i.e., how many employees share each last name)
+1. A df showing all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+1. A df showing the frequency count of employee last names, in descending order. ( i.e., how many employees share each last name)
