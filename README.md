@@ -12,7 +12,13 @@
 
 1. Create engine and connection. 
 
-1. Start doing analysis
+This histogram is showing the salary distrubution among the employers. 
+
+![Box plot](Results/salaryhist.png)
+
+This graph shows the Average salary per title. 
+
+![Box plot](Results/salarytitle.png)
 
 The queries in pgAdmin include:
 
