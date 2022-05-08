@@ -8,7 +8,7 @@
 
 1. Import each CSV file into the corresponding SQL table. 
 
-1. To do data analysis import ```create_engine``` from ```sqlalchemy```.
+1. To do data analysis with Pandas in jupyter notebook import ```create_engine``` from ```sqlalchemy```.
 
 1. Create engine and connection. 
 
