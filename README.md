@@ -4,7 +4,7 @@
 
 1. Create a new db in ```pgAdmin``` called "employee"
 
-1. Create a table schema for each of the six CSV files in the *Data* folder. You can use [This link](http://www.quickdatabasediagrams.com) to scetch out an ERD of the tables. 
+1. Create a table schema for each of the six CSV files in the *Data* folder. I used [This link](http://www.quickdatabasediagrams.com) to scetch out an ERD of the tables. 
 
 1. Import each CSV file into the corresponding SQL table. 
 
