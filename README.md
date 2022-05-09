@@ -1,6 +1,6 @@
 # Data-modeling-engineering-analysis-SQL
 
-## Performing Data Modeling, Data Engineering and Data Analysis using SQL and Pandas
+## Performing Data Modeling, Data Engineering and Data Analysis using SQL and Pandas to query employee information
 
 1. Create a new db in ```pgAdmin``` called "employee"
 
